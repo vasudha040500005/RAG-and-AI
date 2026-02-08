@@ -1,1 +1,1 @@
-# RAG-and-AI
+# RAG with langchain
